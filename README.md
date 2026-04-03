@@ -2,6 +2,8 @@
 
 Read and write [OpenAPI](https://www.openapis.org/) 3.0.x YAML and JSON files and make the content accessible in PHP objects.
 
+This fork will be removed if/when the original repo supports Symfony 8.  https://github.com/cebe/php-openapi/pull/252
+
 It also provides a CLI tool for validating and converting OpenAPI 3.0.x Description files.
 
 [![Latest Stable Version](https://poser.pugx.org/cebe/php-openapi/v/stable)](https://packagist.org/packages/cebe/php-openapi)
