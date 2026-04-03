@@ -1,6 +1,6 @@
 {
-	"name": "cebe/php-openapi",
-	"description": "Read and write OpenAPI yaml/json files and make the content accessable in PHP objects.",
+	"name": "tacman/cebe-php-openapi",
+	"description": "Read and write OpenAPI yaml/json files and make the content accessable in PHP objects.  Fork of cebe/php-openapi with Symfony 8 support",
 	"keywords": ["openapi"],
 	"homepage": "https://github.com/cebe/php-openapi#readme",
 	"type": "library",
